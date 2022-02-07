@@ -1,0 +1,28 @@
+[
+  {
+    "abbrev":"AAPL",
+    "name":"Apple",
+    "numberOwned": 3,
+    "avgPrice": 174.72
+  },
+  {
+    "abbrev":"TSLA",
+    "name":"Tesla Inc",
+    "numberOwned": 1,
+    "avgPrice": 903
+  },
+  {
+    "abbrev":"AMZN",
+    "name":"Amazon.com Inc",
+    "numberOwned": 3,
+    "avgPrice": 2994.97
+  },
+  {
+    "abbrev":"NURC",
+    "name":"Nurocor",
+    "numberOwned": 120,
+    "avgPrice": 9999
+  }
+
+
+]
